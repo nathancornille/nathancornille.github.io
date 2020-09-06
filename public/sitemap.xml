@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2020-06-07T19:58:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/posts/my-first-post/</loc>
+    <loc>/posts/my-first-post/</loc>
     <lastmod>2020-06-07T19:58:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2020-06-07T19:58:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
