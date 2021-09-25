@@ -1,15 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Academia</title>
-    <link>https://examplesite.org/authors/</link>
-    <description>Recent content in Authors on Academia</description>
+    <title>Authors on Nathan Cornille</title>
+    <link>https://nathancornille.github.io/authors/</link>
+    <description>Recent content in Authors on Nathan Cornille</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; {year}</copyright>
     
-	    <atom:link href="https://examplesite.org/authors/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://nathancornille.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://nathancornille.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nathancornille.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m Nathan.
+I&amp;rsquo;m doing a machine learning PhD at the &lt;a href=&#34;https://liir.cs.kuleuven.be/&#34;&gt;LIIR lab&lt;/a&gt; at KU Leuven.
+I&amp;rsquo;m interested in understanding the building blocks that make up &amp;ldquo;intelligence&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;This site is intended on the one hand as a point of contact for people interested in working with me, so you can find my &lt;a href=&#34;#contact&#34;&gt;contact details&lt;/a&gt; and my &lt;a href=&#34;#cv&#34;&gt;CV&lt;/a&gt; here.&lt;/p&gt;
+&lt;p&gt;On the other hand, it will act as a non-peer-reviewed public deposit for my opinions and thoughts, in the form of &lt;a href=&#34;#posts&#34;&gt;blog posts&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
