@@ -3,26 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://nathancornille.github.io/posts/my-first-post/</loc>
+    <loc>https://examplesite.org/</loc>
     <lastmod>2020-06-07T19:58:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nathancornille.github.io/</loc>
+    <loc>https://examplesite.org/posts/my-first-post/</loc>
     <lastmod>2020-06-07T19:58:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nathancornille.github.io/posts/</loc>
+    <loc>https://examplesite.org/posts/</loc>
     <lastmod>2020-06-07T19:58:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nathancornille.github.io/categories/</loc>
+    <loc>https://examplesite.org/authors/</loc>
   </url>
   
   <url>
-    <loc>https://nathancornille.github.io/tags/</loc>
+    <loc>https://examplesite.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/</loc>
   </url>
   
 </urlset>
