@@ -90,8 +90,7 @@ STRUCTURE
 &lt;/ul&gt;
 &lt;h2 id=&#34;what-now&#34;&gt;What Now?&lt;/h2&gt;
 &lt;p&gt;While our findings are encouraging, our planner might not take the world by storm just yet. For one, it currently only planw one step ahead. Extending this to multi-step planning could open the door to leveraging search algorithms during text generation. Additionally, tailoring planner-predicted actions to specific LMs could further enhance performance. There’s plenty of exciting work ahead!&lt;/p&gt;
-&lt;p&gt;For a deeper dive, check out our full paper at &lt;a href=&#34;https://arxiv.org/pdf/2404.00614&#34;&gt;https://arxiv.org/pdf/2404.00614&lt;/a&gt;.
-hugo&lt;/p&gt;
+&lt;p&gt;For a deeper dive, check out our full paper at &lt;a href=&#34;https://arxiv.org/pdf/2404.00614&#34;&gt;https://arxiv.org/pdf/2404.00614&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
